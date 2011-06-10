@@ -1,0 +1,15 @@
+Source: python-uploadify-s3
+Section: python
+Priority: optional
+Maintainer: Sam Charrington (@samcharrington)
+Homepage: https://github.com/sbc/django-uploadify-s3
+Bugs: https://github.com/sbc/django-uploadify-s3/issues
+Build-Depends: debhelper, python-support, python-setuptools
+
+Package: python-uploadify-s3
+Architecture: all
+Depends: ${python:Depends}, python-support, python-django
+Provides: ${python:Provides}
+Description: 
+ A Django application that makes it easy to integrate the Uploadify 
+ uploader and Amazon S3 into your project.

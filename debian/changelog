@@ -1,0 +1,5 @@
+python-uploadify-s3 (0.1.0-0) testing; urgency=high
+
+  * Initial Debian package
+
+ -- Jon Rohan <jon@simplegeo.com>  Fri, 10 Jun 2010 16:25:00 -0700

@@ -1,4 +1,4 @@
-python-uploadify-s3 (0.1.0-0) lucid; urgency=low
+python-uploadify-s3 (0.1.0-sg1) lucid; urgency=low
 
   [ Jon Rohan ]
   * changing the depends
@@ -7,7 +7,7 @@ python-uploadify-s3 (0.1.0-0) lucid; urgency=low
 
  -- SimpleGeo Nerds <nerds@simplegeo.com>  Fri, 10 Jun 2011 20:46:22 +0000
 
-python-uploadify-s3 (0.1.0-0) testing; urgency=high
+python-uploadify-s3 (0.1.0-sg0) testing; urgency=high
 
   * Initial Debian package
 

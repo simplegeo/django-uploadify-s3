@@ -4,7 +4,7 @@ Priority: optional
 Maintainer: Sam Charrington (@samcharrington)
 Homepage: https://github.com/sbc/django-uploadify-s3
 Bugs: https://github.com/sbc/django-uploadify-s3/issues
-Build-Depends: debhelper, python-support, python-setuptools
+Build-Depends: cdbs, debhelper (>= 7), python, python-support, python-setuptools
 
 Package: python-uploadify-s3
 Architecture: all
